@@ -1,0 +1,46 @@
+h1{
+    /* font-size: 60px; */
+    text-align: center;
+    width: 950px;
+    height: 60px;
+    color: #000000;
+    font: 60px "Helveticaive", Helvetica, Arial, small;
+}
+
+h2{
+    /* text-align: center; */
+    margin-left: 434px;
+    width: 105.80px;
+    height: 17.5px;
+    font: 16px "Helveticaive", Helvetica, Arial, small;
+}
+.top2{
+    text-align: center;
+    color: #00000080;
+}
+
+.top2 span:hover{
+    text-decoration: underline;
+    color: rgba(0, 0, 255, 0.557);
+}
+
+.top3{
+   display: flex;
+   margin-left: 370px;
+}
+
+.top4 a{
+    text-decoration: none;
+}
+.top4 a:hover{
+    text-decoration: underline;
+}
+
+.top5 a{
+    text-decoration: none;
+}
+.top5 a:hover{
+    text-decoration: underline;
+}
+
+
